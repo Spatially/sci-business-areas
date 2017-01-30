@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#
+# This is the driver for all eero commands.
+#
+
+basename=$1
+python $EERO_DIR/e_$basename.py
