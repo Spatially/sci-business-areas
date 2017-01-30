@@ -1,0 +1,8 @@
+name|value
+msa_name|proto
+lon_min|-122.63
+lon_max|-122.22
+lat_min|47.09
+lat_max|47.33
+projection|+proj=tmerc +lat_0=0.0 +lon_0=-122.4 +y_0=0 +x_0=0 +k_0=0.9996 +units=m +ellps=WGS84
+
